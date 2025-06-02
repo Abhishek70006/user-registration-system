@@ -42,3 +42,6 @@ bash
 Copy
 Edit
 npm install
+
+npm run dev
+
